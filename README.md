@@ -13,7 +13,8 @@ Abdullah Alkhaldi
 ****Team Collaboration****
 We set together every saturday and monday at noon in a caffee shop and work on project.
 
-*****Bonus*****
+# Bonus
+
 1. I found and intresting field name name db_comment its new in django. models.DateTimeField(db_comment="Date and time when the article was published",)  so i added it on Response class which you see the result in response part.
 
 2. Another one is (verbose_name) which takes an optional first positional argument – a verbose name. If the verbose name isn’t given, Django will automatically create it using the field’s attribute name, converting underscores to spaces. So, I add on active_until field.
