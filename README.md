@@ -1,9 +1,11 @@
 # poll_project
 
-# The Project Manager is:
-Abdullah Alkhaldi
+# The Project
 
-***Tasks Distributions:***
+
+**The project manager is: Abdullah Alkhaldi**
+
+**Tasks Distributions:**
 1. Abdullah did half of the model.py. 
 2. Farid did the Admin.py and the rest of the model.py.
 3. Abdullah did the README.md.
@@ -20,9 +22,9 @@ We set together every saturday and monday at noon in a caffee shop and work on p
 2. Another one is (verbose_name) which takes an optional first positional argument – a verbose name. If the verbose name isn’t given, Django will automatically create it using the field’s attribute name, converting underscores to spaces. So, I add on active_until field.
 
 3. We add these part:
-1. (In the poll question list, display a column showing the number of responses for the question)
-1. (Create InlineModelAdmin for Poll and Option which allows editing and creating of the question and options in the same form)
+(In the poll question list, display a column showing the number of responses for the question)
+(Create InlineModelAdmin for Poll and Option which allows editing and creating of the question and options in the same form)
 
 4. Admin interface explore:
-1. We got TabularInLine
-1. And inlines in PostAdmin
+We got TabularInLine
+And inlines in PostAdmin
