@@ -1,6 +1,6 @@
 # poll_project
 
-**The Project Manager is:**
+# The Project Manager is:
 Abdullah Alkhaldi
 
 ***Tasks Distributions:***
@@ -10,7 +10,7 @@ Abdullah Alkhaldi
 4. Together we did the bouns part.
 
 
-****Team Collaboration****
+****Team Collaboration:****
 We set together every saturday and monday at noon in a caffee shop and work on project.
 
 # Bonus
